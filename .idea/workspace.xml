@@ -9,10 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dfca37d-73e7-4687-bd90-47fbe60155c8" name="Changes" comment="premier push">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="5dfca37d-73e7-4687-bd90-47fbe60155c8" name="Changes" comment="deuxieme push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rasstek/firstapp/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rasstek/firstapp/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rasstek/firstapp/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rasstek/firstapp/MesServlets/HelloServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +28,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ULsDKiRF7FCtBfjnS21FPPPMPq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,7 +48,10 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.editor",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -101,7 +103,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692730076482</updated>
-      <workItem from="1692730077661" duration="6032000" />
+      <workItem from="1692730077661" duration="6668000" />
+      <workItem from="1692968034615" duration="3351000" />
     </task>
     <task id="LOCAL-00001" summary="premier push">
       <option name="closed" value="true" />
@@ -111,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692732266089</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="deuxieme push">
+      <option name="closed" value="true" />
+      <created>1692736688910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692736688910</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +130,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="premier push" />
-    <option name="LAST_COMMIT_MESSAGE" value="premier push" />
+    <MESSAGE value="deuxieme push" />
+    <option name="LAST_COMMIT_MESSAGE" value="deuxieme push" />
   </component>
 </project>

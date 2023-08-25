@@ -1,4 +1,4 @@
-package com.rasstek.firstapp;
+package com.rasstek.firstapp.MesServlets;//C'est le Namespace de la classe
 
 import java.io.*;
 
@@ -80,7 +80,7 @@ public class HelloServlet extends HttpServlet {
 
     public void destroy() {
         // Code pour libérer des ressources, fermer des connexions, etc.
-        System.out.println("La servlet est en train d'être détruite.");
+      //  System.out.println("La servlet est en train d'être détruite.");
 
     }
 }
